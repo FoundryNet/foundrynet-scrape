@@ -1,0 +1,9 @@
+name: foundrynet-scrape
+displayName: FoundryNet Scrape
+description: x402-gated web extraction. URL → clean text / markdown / json (Readability).
+remote:
+  url: https://foundrynet-scrape-production.up.railway.app/mcp
+  transport: streamable-http
+homepage: https://foundrynet.io
+tools: [extract, extract_batch]
+keywords: [web-scraping, scrape, extract, readability, html-to-markdown, content-extraction, crawler, research, data-extraction, markdown]
