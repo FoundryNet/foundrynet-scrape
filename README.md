@@ -2,7 +2,7 @@
 
 x402-gated **web extraction** gateway for AI agents. Fetch any page and get clean content back — text, markdown, or structured JSON. No API keys, no accounts.
 
-Part of the [FoundryNet Data Network](https://foundrynet.io). Pay-per-call in USDC (x402) or bypass with an `fnet_` Forge key. Also exposed as an MCP server for Smithery/Glama/Claude.
+Part of the [FoundryNet Data Network](https://foundrynet.io?utm_source=github&utm_medium=readme&utm_campaign=foundrynet-scrape). Pay-per-call in USDC (x402) or bypass with an `fnet_` Forge key. Also exposed as an MCP server for Smithery/Glama/Claude.
 
 ## Tools / Endpoints
 
